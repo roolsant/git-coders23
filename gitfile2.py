@@ -17,3 +17,7 @@ print('Modificação 3')
 # Arquivo Modificado
 # 11.11.23 - 11:29
 print('Uso do comando git hush')
+
+# Arquivo Modificado - on line
+# 11.11.23 - 11:32
+print('Uso do comando git pull')
