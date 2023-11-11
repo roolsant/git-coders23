@@ -13,3 +13,7 @@ print('Modificação 2')
 # Arquivo Modificado
 # 11.11.23 - 11:17
 print('Modificação 3')
+
+# Arquivo Modificado
+# 11.11.23 - 11:29
+print('Uso do comando git hush')
