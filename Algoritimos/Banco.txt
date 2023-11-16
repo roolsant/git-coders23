@@ -1,3 +1,4 @@
+-- Script para testar em Python --
 INICIO principal
 VAR opcao_selecionada: STRING
 VAR valor: INTEIRO
